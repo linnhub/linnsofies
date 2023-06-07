@@ -1,28 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Linn Sofie</title>
-    <link>./</link>
-    <description>Recent content on Linn Sofie</description>
+    <title>Linn Sofie Sæther</title>
+    <link>https://linnsofies.netlify.app/</link>
+    <description>Recent content on Linn Sofie Sæther</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 15 May 2023 19:42:35 +0200</lastBuildDate><atom:link href="./index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://linnsofies.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Info</title>
-      <link>./posts/info/</link>
-      <pubDate>Mon, 15 May 2023 19:42:35 +0200</pubDate>
+      <title>Canonical Correlation Analysis (CCA) in R</title>
+      <link>https://linnsofies.netlify.app/blog/cca_tutorial/</link>
+      <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>./posts/info/</guid>
-      <description>Linn Sofie is cool!@</description>
+      <guid>https://linnsofies.netlify.app/blog/cca_tutorial/</guid>
+      <description>What is CCA? Link to heading When our statistician recommended we use a CCA on our data, I have to admit I had never heard of it before. I was surprised to find out that it is a very powerful alternative to running several multivariate regressions or dimension reduction techniques like Principal Component Analysis (PCA) or Independent Component Analysis (ICA), which can sometimes be challenging to interpret.
+Canonical Correlation Analysis (CCA) is similar to PCA, but with some important differences.</description>
     </item>
     
     <item>
-      <title>About</title>
-      <link>./about/</link>
+      <title>Interactive plots with Plotly (coming!)</title>
+      <link>https://linnsofies.netlify.app/blog/interactive_plotly/</link>
+      <pubDate>Mon, 15 May 2023 19:42:35 +0200</pubDate>
+      
+      <guid>https://linnsofies.netlify.app/blog/interactive_plotly/</guid>
+      <description>Tutorial is on the way.</description>
+    </item>
+    
+    <item>
+      <title>Hi!</title>
+      <link>https://linnsofies.netlify.app/about/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://linnsofies.netlify.app/about/</guid>
+      <description>My name is Linn Sofie, I am a neuroscientist and PhD candidate affiliated with the Oslo University Hospital/University of Oslo and the Norwegian Centre for Mental Disorders Research (NORMENT).
+In my PhD project I am investigating the role of low-grade inflammation in cognitive impairment &amp;ndash; a common symptom in severe mental illnesses including schizophrenia and bipolar spectrum disorders. The project involves analysis of inflammatory and immune-related markers both at the periphery (blood) and centrally (brain).</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://linnsofies.netlify.app/publications/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://linnsofies.netlify.app/publications/</guid>
+      <description>Here you will find a list of my published works, including popular science blog posts, media interviews and first/co-authored publications. For the most recent updates, you can check out my Google Scholar profile.
+Popular science blogs &amp;amp; media interviews Link to heading LS Sæther, T Ueland, OA Andreassen, A Szabo, T Ueland (2023). Does inflammation get on our nerves? Nature Portfolio: Behind the Paper.
+Interview in Norwegian (2023). Schizofreni forbindes med betennelser.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://linnsofies.netlify.app/contact/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>./about/</guid>
-      <description>My name is Linn</description>
+      <guid>https://linnsofies.netlify.app/contact/</guid>
+      <description>If you have any questions, you can reach me at: l.s.saether@psykologi.uio.no</description>
     </item>
     
   </channel>
